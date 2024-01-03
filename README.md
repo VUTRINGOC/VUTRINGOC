@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/trungquandev.svg" width="1200" alt="VUTRINGOC-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -55,7 +55,7 @@
   <a href="#" title="VŨ TRÍ NGỌC">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VUTRINGOC&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="VUTRINGOC">
+  <a href="#" title="VŨ TRÍ NGỌC">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=VUTRINGOC&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -69,19 +69,19 @@
     <img width="90" height="90" src="images/VT_N.png" alt="trungquandev-blog" />
   </a>
   <a href="https://facebook.com/vutrianhngoc" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VUTRINGOC-facebook" />
   </a>
   <a href="https://www.youtube.com/c/vutringoc" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="VUTRINGOC-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/vutringoc" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="VUTRINGOC-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="https://instagram.com/VUTRINGOC" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="VUTRINGOC-instagram" />
   </a>
   <a href="mailto:vutringoc.cv@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="VUTRINGOC-email" />
   </a>  
 
   
