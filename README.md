@@ -84,9 +84,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>  
 
-  <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
+  
 </div>
 
 <br>
@@ -98,5 +96,9 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
+<div align="center">
 
-
+<a href="#" target="_blank">
+  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+</a>
+</div>
