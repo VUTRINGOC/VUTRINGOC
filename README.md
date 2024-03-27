@@ -102,3 +102,34 @@
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
 </div>
+
+<h2 align="center">📊 Contribution Graph 📊</h2>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/conanak99" alt="Contribution Graph" />
+</p>
+
+<h2 align="center">📈 Contribution Activity 📈</h2>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=conanak99&bg_color=20232a&color=61dafb&line=61dafb&point=FFFFFF&hide_border=true" alt="Contribution Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=conanak99&theme=react&border_color=61dafb&hide_border=true" alt="Wakatime Stats" />
+</p>
+
+<h2 align="center">🔍 Contribution Details 🔍</h2>
+
+<details align="center">
+  <summary align="center">Click to expand</summary>
+  
+  | Repository         | Language | Last Contribution |
+  |--------------------|----------|-------------------|
+  | [TTCSDH](https://github.com/VUTRINGOC/TTCSDH)                 | C#       | Mar 27            |
+  | [UngDungXML](https://github.com/VUTRINGOC/UngDungXML)         | C#       | Mar 27            |
+  | [WindowsFormsApp2](https://github.com/VUTRINGOC/WindowsFormsApp2) | C#       | Mar 26            |
+  | [vidu](https://github.com/VUTRINGOC/vidu)                     | C#       | Mar 25            |
+  | [VTN-TEST](https://github.com/VUTRINGOC/VTN-TEST)             | -        | Mar 10            |
+</details>
+
