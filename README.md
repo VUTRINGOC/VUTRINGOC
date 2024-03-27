@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="VUTRINGOC-official" />
+  <img src="svg/trungquandev.svg" width="1200" alt="conanak99-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -53,10 +53,10 @@
 <br>
 <div align=center>
   <a href="#" title="VŨ TRÍ NGỌC">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VUTRINGOC&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conanak99&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="VŨ TRÍ NGỌC">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=VUTRINGOC&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=conanak99&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -69,19 +69,19 @@
     <img width="90" height="90" src="images/VT_N.png" alt="trungquandev-blog" />
   </a>
   <a href="https://facebook.com/vutrianhngoc" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VUTRINGOC-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="conanak99-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/vutringoc" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="VUTRINGOC-youtube" />
+  <a href="https://www.youtube.com/c/conanak99" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="conanak99-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/vutringoc" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="VUTRINGOC-linkedin" />
+  <a href="https://www.linkedin.com/in/conanak99" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="conanak99-linkedin" />
   </a>
-  <a href="https://instagram.com/VUTRINGOC" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="VUTRINGOC-instagram" />
+  <a href="https://instagram.com/conanak99" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="conanak99-instagram" />
   </a>
-  <a href="mailto:vutringoc.cv@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="VUTRINGOC-email" />
+  <a href="mailto:conanak99.cv@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="conanak99-email" />
   </a>  
 
   
@@ -91,7 +91,7 @@
 
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/vutrianhngoc" target="_blank">https://www.facebook.com/vutrianhngoc</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:vutringoc.cv@gmail.com" target="_top">vutringoc.cv@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:conanak99.cv@gmail.com" target="_top">conanak99.cv@gmail.com</a></strong>
 </p>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
